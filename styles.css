@@ -1,0 +1,35 @@
+/** Cooper McKernan
+April 7th 2021 
+Professional Portfolio **/
+
+h1 { 
+text-align : center;
+font-size : 25px;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+/** NAVIGATION BAR **/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li { 
+    float: left;
+    padding-left: 250px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align : center;
+    padding : 20px 16px
+
+}
