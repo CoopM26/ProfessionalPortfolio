@@ -23,13 +23,17 @@ ul {
 
 li { 
     float: left;
-    padding-left: 250px;
+    padding-left: 380px;
 }
 
 li a {
     display: block;
     color: white;
+
+    font-size : 15px;
+    font-weight: bold;
     text-align : center;
     padding : 20px 16px
-
+    
+asdasdasda
 }
