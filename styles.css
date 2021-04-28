@@ -34,3 +34,23 @@ li a {
     text-align : center;
     padding : 20px 16px;    
 }
+
+/* TEXT */
+
+h3 {
+    text-align : left;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: right;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
